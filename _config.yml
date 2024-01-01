@@ -1,0 +1,10 @@
+title: Dev blog
+author: makes
+description: Computer stuff I like to share with the world.
+
+remote_theme: jekyll/minima
+minima:
+  skin: auto
+
+plugins:
+  - jekyll-feed
